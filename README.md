@@ -6,7 +6,7 @@ A look into how to declare vectors in c++
   
   
 ## Disclaimer
-  This isn't the first time I have posted c++ on here. The FIRST major project for c++ that I have is an OpenGL c++ program that aims to change the background color of a given window, draw with the mouse inside of a given window and many more. this exercise that I am posting right now is to show that I can demonstrate how to declare variables, vectors, push vector values into an empty vecotr, classes and many more complex c++ concepts. Once I found that I am comfortable to write these systems I will update my github with more complex game projects/concepts. It won't be instant and will take some time but in the end it will be worth it.
+  This isn't the first time I have posted c++ on here. The FIRST major project for c++ that I have is an OpenGL c++ program that aims to change the background color of a given window, draw with the mouse inside of a given window and many more. this exercise that I am posting right now is to show that I can demonstrate how to declare variables, vectors, push vector values into an empty vector, classes and many more fundamental c++ concepts. Once I found that I am comfortable to write more complex systems I will update my github with more complex game projects/concepts. It won't be instant and will take some time but in the end it will be worth it.
   
 ## Code Snippet
   
