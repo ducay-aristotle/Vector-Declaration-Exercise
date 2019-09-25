@@ -47,4 +47,4 @@ A look into how to declare vectors in c++
 	}
 	system("PAUSE");
 	return 0;
-}
+	}
